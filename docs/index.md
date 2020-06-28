@@ -23,7 +23,8 @@ Note that the choice to put a pattern in a group may be arbitrary, duplicating t
 Common Grounds
 --------------
 
-You might need to change some angles and distances to recognize a ground. See this [animation] and the reshape pages in the sidebar.
+You might need to change some angles and distances to recognize a ground.
+See this [animation] and the reshape pages in the sidebar.
 
 [animation]: animation/GIFCreator-me.gif
 
