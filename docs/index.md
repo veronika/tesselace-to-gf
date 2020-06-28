@@ -24,9 +24,9 @@ Common Grounds
 --------------
 
 You might need to change some angles and distances to recognize a ground.
-See this [animation] and the reshape pages in the sidebar.
+See this [animation] and how to achieve the effect.
 
-[animation]: animation/GIFCreator-me.gif
+[animation]: https://d-bl.github.io/GroundForge/help/Reshape-Patterns
 
 {% include tesselaceSample.html nr="181" pattern="88,11&shiftColsSE=1&shiftRowsSE=2&shiftColsSW=-1&shiftRowsSW=2" patches="patch=88,11;bricks&patch=66,22;bricks&patch=88,99,11,00;bricks&patch=66,11,88,22;bricks&patch=66,99,22,00;bricks" %}
 {% include tesselaceSample.html nr="214" pattern="5-,-5&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=0&shiftRowsSW=2" patches="patch=5-,-5;checker&patch=5353,5353,5-5-,-5-5;checker&patch=5632,56-2,5-5-,-535;checker&patch=53,5-,-5,5-;bricks&patch=44,77,44,77;bricks&patch=44,44,77,77;bricks&patch=66,88,66,11;bricks&patch=66,66,88,11;checker&patch=66,66,99,00;checker&patch=6;checker&patch=566-,66-5,6-56,-566;checker&patch=53,53,53,5-;bricks&patch=5663,5663;checker&patch=53,5-;bricks&patch=563,563,563;checker&patch=53,53;checker&patch=5632,5632;checker&patch=5353,5353;bricks" %}
