@@ -18,18 +18,7 @@ by Veronika Irvine.
 [TesseLace.com]: https://tesselace.com
 [GroundForge]: /GroundForge/tiles.html
 
-Groups of images
-- [Common Grounds](#common-grounds)
-- [Virgin alias Rose and bias variations](#virgin-alias-rose-and-bias-variations)
-- [Fish and Lotus variations](#fish-and-lotus-variations)
-- [Others](#others)
-
 Note that the choice to put a pattern in a group may be arbitrary, duplicating too many in multiple groups would make the page too slow.
-
-_Hint to edit this page_: <br>
-The links and image tooltip show image numbers.
-Use these numbers to locate the line to edit.
-Note that a few image numbers may occur twice.
 
 Common Grounds
 --------------
