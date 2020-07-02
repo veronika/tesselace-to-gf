@@ -57,7 +57,7 @@ See also the [Droste](Droste-effect) page, a twist more or less at the first ste
 Fish and Lotus variations
 -------------------------
 
-see also [MEA-gf](https://maetempels.github.io/MAE-gf/docs/fish)
+see also [MAE-gf](https://maetempels.github.io/MAE-gf/docs/fish)
 
 {% include tesselaceSample.html nr="150" pattern="43,5-,35,86&shiftColsSE=1&shiftRowsSE=4&shiftColsSW=-1&shiftRowsSW=4" patches="patch=43,5-,35,86;bricks" %}
 {% include tesselaceSample.html nr="148" pattern="68,4-,-5,5-&shiftColsSE=1&shiftRowsSE=4&shiftColsSW=-1&shiftRowsSW=4" patches="patch=68,4-,-5,5-;bricks" %}
