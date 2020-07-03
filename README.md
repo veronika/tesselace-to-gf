@@ -3,16 +3,21 @@
 Contribute
 ==========
 
-[how] to propose changes to the [docs] that build the [site].
+[How] to propose changes to the [docs] that build the [site].
 
-[how]: https://help.github.com/articles/editing-files-in-another-user-s-repository/
+Most common tasks:
+* edit the `.md` files in the `docs` folder
+* keep the TOC in the [sidebar] up to date
+
+[How]: https://help.github.com/articles/editing-files-in-another-user-s-repository/
 [docs]: https://github.com/d-bl/tesselace-to-gf/tree/master/docs
+[sidebar]: https://github.com/d-bl/tesselace-to-gf/tree/master/docs/_includes/Sidebar.html
 [site]: https://d-bl.github.io/tesselace-to-gf/
 
 You might get lost when editing lines like 
 
     {% include tesselaceSample.html nr="181" pattern="88,11&...bricks" %}
 
-The numbers in these lines appear as tooltips when hovering over a thumbnail
+The numbers in these lines appear as tooltips on the site when hovering over a thumbnail
 or previewing the target of a link.
 Note that a few image numbers may occur twice.
