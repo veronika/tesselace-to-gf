@@ -41,11 +41,13 @@ To preview the actual results online, you can:
 
 Get your master branch in sync again:
 
-* A crude way: remove your fork once all your changes in all your branches are merged.
-* A local clone of the project and some git desktop application
-  (IDE's might have git functionality integrated but that could be overkill for some) 
-  cater for several options. To name one procedure: 
-  * Create a branch from the tip of your current master as a fall-back.
+* A crude way: remove your fork and start all over again.
+  Make sure you don't loose pending changes or whatever in any of your branches.
+* For a less crude way you'll need some git desktop client,
+  IDE's might have it integrated but that could be overkill for some. 
+  This caters for several options. To name one procedure: 
+  * [Create a branch](https://www.wikihow.com/Create-a-Branch-on-GitHub)
+    from the tip of your current master as a fall-back.
     Otherwise, it can be very hard (though rarely impossible) to recover from a mistake.
-  * Checkout the master branch of `d-bl` as local master branch.
+  * Checkout the master branch of the `d-bl` repository as local master branch.
   * Push force it to your own public repository.
