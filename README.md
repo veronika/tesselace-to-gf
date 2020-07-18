@@ -35,9 +35,12 @@ To preview the actual results online, you can:
 * Fork the project.
 * In the about section: change the description to some warning that your repository is a test version.
   This warning will appear in the banner of your version of the pages.
-* On the settings tab: set github pages to `master branch /docs folder`.
+* Select `master branch /docs folder` to configure your own [github pages].
 * Work on the master branch of your fork.
-* Create a pull request between both masters, make it a draft request for early feedback.
+* Create a [pull request] between both masters, make it a draft request for early feedback.
+
+[github pages]: https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source
+[pull request]: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork
 
 Get your master branch in sync again:
 
