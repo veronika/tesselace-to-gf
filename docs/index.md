@@ -34,7 +34,7 @@ See this [animation] and how to achieve the effect.
 Virgin alias Rose and bias variations
 -------------------------------------
 
-See also the [Droste](Droste-effect) page, a twist more or less at the first step or alternating stitches in one or two directions and you have another variation.
+See also the [Droste](/GroundForge/Droste-effect) page, a twist more or less at the first step or alternating stitches in one or two directions and you have another variation.
 
 {% include tesselaceSample.html nr="130" pattern="5831,-4-7&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2" patches="patch=5831,-4-7;bricks&patch=-437,34-7;bricks&patch=4830,--77;bricks" %}
 {% include tesselaceSample.html nr="129" pattern="1483,8-48&shiftColsSE=2&shiftRowsSE=2&shiftColsSW=-2&shiftRowsSW=2" patches="patch=1483,8-48;bricks&patch=4831,-488,3148,88-4;checker" %}
