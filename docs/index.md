@@ -51,7 +51,7 @@ See also<br> [MAE-gf nets](https://maetempels.github.io/MAE-gf/docs/nets#diagona
 |     |     |     |     |     |
 |:---|:---|:---|:---|:---|
 [![](tl/3_6/kat.png)][kat]  | [![](tl/3_6/2x4_8.png)][2x4_8] | [![](tl/3_6/2x4_18.png)][2x4_18] | [![](tl/3_6/2x4_28.png)][2x4_28] | [![](tl/3_6/2x4_29.png)][2x4_29]
-  <a href="tl/3_6/kat.txt" download="kat.txt">2x4_8</a><br>{% include tesselaceSample.html patches="patch=B-C-,---5,C-B-,-5--;checker" %} | <a href="tl/3_6/2x4_8.txt" download="2x4_8.txt">2x4_8</a> | <a href="tl/3_6/2x4_18.txt" download="2x4_18.txt">2x4_18</a> | <a href="tl/3_6/2x4_28.txt" download="2x4_28.txt">2x4_28</a> | <a href="tl/3_6/2x4_29.txt" download="2x4_29.txt">2x4_29</a>
+  <a href="tl/3_6/kat.txt" download="kat.txt">2x4_8</a>  {% include tesselaceSample.html patches="patch=B-C-,---5,C-B-,-5--;checker" %} | <a href="tl/3_6/2x4_8.txt" download="2x4_8.txt">2x4_8</a> | <a href="tl/3_6/2x4_18.txt" download="2x4_18.txt">2x4_18</a> | <a href="tl/3_6/2x4_28.txt" download="2x4_28.txt">2x4_28</a> | <a href="tl/3_6/2x4_29.txt" download="2x4_29.txt">2x4_29</a>
 [![](tl/3_6/2x4_49.png)][2x4_49] | [![](tl/3_6/2x4_86.png)][2x4_86] | [![](tl/3_6/2x4_93.png)][2x4_93] | [![](tl/3_6/2x4_96.png)][2x4_96] | [![](tl/3_6/R3M3_6x6_1.png)][R3M3_6x6_1]
 <a href="tl/3_6/2x4_49.txt" download="2x4_49.txt">2x4_49</a>  | <a href="tl/3_6/2x4_86.txt" download="2x4_86.txt">2x4_86</a> | <a href="tl/3_6/2x4_93.txt" download="2x4_93.txt">2x4_93</a> |  <a href="tl/3_6/2x4_96.txt" download="2x4_96.txt">2x4_96</a> | <a href="tl/3_6/R3M3_6x6_1.txt" download="R3M3_6x6_1.txt">R3M3_6x6_1</a> | 
  See also<br> [MAE-gf Paris](https://maetempels.github.io/MAE-gf/docs/paris) | 
