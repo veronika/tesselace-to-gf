@@ -44,9 +44,7 @@ Traditional Grounds
 <a href="tl/4/1x5_1.txt" download="1x5_1.txt">1x5_1</a> | <a href="tl/4/1x5_2.txt" download="1x5_2.txt">1x5_2</a> | <a href="tl/4/1x5_3.txt" download="1x5_3.txt">1x5_3</a> | <a href="tl/4/3x2_26.txt" download="3x2_26.txt">3x2_26</a> | <a href="tl/4/3x3_19.txt" download="3x3_19.txt">3x3_19</a>
 [![](tl/4/3x3_107.png)][3x3_107] | [![](tl/4/4x2_120.png)][4x2_120] | [![](tl/4/4x2_170.png)][4x2_170] | [![](tl/4/4x4_33.png)][4x4_33] | [![](tl/4/4x4_93.png)][4x4_93]
 <a href="tl/4/3x3_107.txt" download="3x3_107.txt">3x3_107</a> | <a href="tl/4/4x2_120.txt" download="4x2_120.txt">4x2_120</a> | <a href="tl/4/4x2_170.txt" download="4x2_170.txt">4x2_170</a> | <a href="tl/4/4x4_33.txt" download="4x4_33.txt">4x4_33</a> | <a href="tl/4/4x4_93.txt" download="4x4_93.txt">4x4_93</a>
-
-See also:
- * [MAE-gf nets](https://maetempels.github.io/MAE-gf/docs/nets)
+See also: <ul> <li>[MAE-gf nets](https://maetempels.github.io/MAE-gf/docs/nets) </ul> |
  
 ### Kat or Paris family
 
@@ -56,23 +54,21 @@ See also:
   <a href="tl/3_6/kat.txt" download="kat.txt">2x4_8</a> | <a href="tl/3_6/2x4_8.txt" download="2x4_8.txt">2x4_8</a> | <a href="tl/3_6/2x4_18.txt" download="2x4_18.txt">2x4_18</a> | <a href="tl/3_6/2x4_28.txt" download="2x4_28.txt">2x4_28</a> | <a href="tl/3_6/2x4_29.txt" download="2x4_29.txt">2x4_29</a>
 [![](tl/3_6/2x4_49.png)][2x4_49] | [![](tl/3_6/2x4_86.png)][2x4_86] | [![](tl/3_6/2x4_93.png)][2x4_93] | [![](tl/3_6/2x4_96.png)][2x4_96] | [![](tl/3_6/R3M3_6x6_1.png)][R3M3_6x6_1]
 <a href="tl/3_6/2x4_49.txt" download="2x4_49.txt">2x4_49</a>  | <a href="tl/3_6/2x4_86.txt" download="2x4_86.txt">2x4_86</a> | <a href="tl/3_6/2x4_93.txt" download="2x4_93.txt">2x4_93</a> |  <a href="tl/3_6/2x4_96.txt" download="2x4_96.txt">2x4_96</a> | <a href="tl/3_6/R3M3_6x6_1.txt" download="R3M3_6x6_1.txt">R3M3_6x6_1</a> | 
- 
+ See also: <ul> <li>[MAE-gf Paris](https://maetempels.github.io/MAE-gf/docs/paris) </ul> | 
 Close cousin:
 
 |     |     |     |     |     |
 |:---|:---|:---|:---|:---|
-[![](tl/3_6/2x2_5.png)][2x2_5] |
- <a href="tl/3_6/2x2_5.txt" download="2x2_5.txt">2x2_5</a> | 
-
-See also:
- * [MAE-gf Paris](https://maetempels.github.io/MAE-gf/docs/paris)
+[![](tl/3_6/2x2_5.png)][2x2_5] |  
+ <a href="tl/3_6/2x2_5.txt" download="2x2_5.txt">2x2_5</a> |   | 
  
 ### Rose family
 
 |     |     |     |     |     |
 |:---|:---|:---|:---|:---|
-[![](tl/3_4_8/rose.png)][rose] |  [![](tl/3_4_8/4x4_25309.png)][4x4_25309] |  [![](tl/3_4_8/4x4_117397.png)][4x4_117397] |  [![](tl/3_4_8/4x4_117301.png)][4x4_117301]
+[![](tl/3_4_8/rose.png)][rose] |  [![](tl/3_4_8/4x4_25309.png)][4x4_25309] |  [![](tl/3_4_8/4x4_117397.png)][4x4_117397] |  [![](tl/3_4_8/4x4_117301.png)][4x4_117301] | See also: <ul> <li>[MAE-gf Roses](https://maetempels.github.io/MAE-gf/docs/roses) <li> [Droste effect](/GroundForge/Droste-effect) </ul>
  <a href="tl/3_4_8/rose.txt" download="rose.txt">rose</a> |  <a href="tl/3_4_8/4x4_25309.txt" download="4x4_25309.txt">4x4_25309</a> |  <a href="tl/3_4_8/4x4_117397.txt" download="4x4_117397.txt">4x4_117397</a> | <a href="tl/3_4_8/4x4_117301.txt" download="4x4_117301.txt">4x4_117301</a>
+ 
 
 Close cousins:
 
@@ -80,18 +76,14 @@ Close cousins:
 |:---|:---|:---|:---|:---|
 [![](tl/3_4_8/4x4_56.png)][4x4_56] | [![](tl/3_4_7_8/4x4_71.png)][4x4_71] | [![](tl/3_4_7_8/4x4_102.png)][4x4_102] |  [![](tl/3_4_7/4x4_105.png)][4x4_105] |  [![](tl/3_4_7/4x4_106.png)][4x4_106]
  | <a href="tl/3_4_8/4x4_56.txt" download="4x4_56.txt">4x4_56</a> | <a href="tl/3_4_7_8/4x4_71.txt" download="4x4_71.txt">4x4_71</a> | <a href="tl/3_4_7_8/4x4_102.txt" download="4x4_102.txt">4x4_102</a> | <a href="tl/3_4_7/4x4_105.txt" download="4x4_105.txt">4x4_105</a> | <a href="tl/3_4_7/4x4_106.txt" download="4x4_106.txt">4x4_106</a>
-[![](tl/3_4_8/4x4_19737.png)][4x4_19737] |  [![](tl/3_4_8/4x4_22317.png)][4x4_22317]
+[![](tl/3_4_8/4x4_19737.png)][4x4_19737] |  [![](tl/3_4_8/4x4_22317.png)][4x4_22317] |
  <a href="tl/3_4_8/4x4_19737.txt" download="4x4_19737.txt">4x4_19737</a> |  <a href="tl/3_4_8/4x4_22317.txt" download="4x4_22317.txt">4x4_22317</a>
-
- See also:
- * [MAE-gf Roses](https://maetempels.github.io/MAE-gf/docs/roses)
- * [Droste effect](/GroundForge/Droste-effect)
  
 ### Bias family
 
 |     |     |     |     |     |
 |:---|:---|:---|:---|:---|
-[![](tl/3_6/3x3_248.png)][3x3_248] | [![](tl/3_6/4x2_97.png)][4x2_97] | [![](tl/3_6/4x3_267.png)][4x3_267] | 
+[![](tl/3_6/3x3_248.png)][3x3_248] | [![](tl/3_6/4x2_97.png)][4x2_97] | [![](tl/3_6/4x3_267.png)][4x3_267] |  | See also: <ul> <li>[MAE-gf bias](https://maetempels.github.io/MAE-gf/docs/bias)
 <a href="tl/3_6/3x3_248.txt" download="3x3_248.txt">3x3_248</a> | <a href="tl/3_6/4x2_97.txt" download="4x2_97.txt">4x2_97</a> | <a href="tl/3_6/4x3_267.txt" download="4x3_267.txt">4x3_267</a> |
 
 Non-traditional grounds
