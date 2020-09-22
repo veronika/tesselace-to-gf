@@ -22,7 +22,8 @@ In the following tables,
 * click on the **image** to see thread and pair diagrams in [GroundForge],
 * click on the **name** to download a template file for use with the [Bobbin Lace plugins for Inkscape](https://tesselace.com/tools/inkscape-extension/).
 
-Families of patterns are variations of the same pattern with [modified pin positions](/GroundForge/help/Reshape-Patterns).  Note: Currently, GroundForge does not support pin positions therefore the thread diagrams for all members of a family look the same.
+Families of patterns are variations of the same pattern with [modified pin positions](/GroundForge/help/Reshape-Patterns).  Click on the **SVG** link to experiment with other pin positions.  
+Note: Currently, GroundForge does not support pin positions therefore the thread diagrams for all members of a family look the same.
    
 Traditional Grounds
 -------------------
