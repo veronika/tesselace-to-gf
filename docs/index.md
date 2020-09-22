@@ -44,7 +44,7 @@ Traditional Grounds
 <a href="tl/4/1x5_1.txt" download="1x5_1.txt">1x5_1</a> | <a href="tl/4/1x5_2.txt" download="1x5_2.txt">1x5_2</a> | <a href="tl/4/1x5_3.txt" download="1x5_3.txt">1x5_3</a> | <a href="tl/4/3x2_26.txt" download="3x2_26.txt">3x2_26</a> | <a href="tl/4/3x3_19.txt" download="3x3_19.txt">3x3_19</a>
 [![](tl/4/3x3_107.png)][3x3_107] | [![](tl/4/4x2_120.png)][4x2_120] | [![](tl/4/4x2_170.png)][4x2_170] | [![](tl/4/4x4_33.png)][4x4_33] | [![](tl/4/4x4_93.png)][4x4_93]
 <a href="tl/4/3x3_107.txt" download="3x3_107.txt">3x3_107</a> | <a href="tl/4/4x2_120.txt" download="4x2_120.txt">4x2_120</a> | <a href="tl/4/4x2_170.txt" download="4x2_170.txt">4x2_170</a> | <a href="tl/4/4x4_33.txt" download="4x4_33.txt">4x4_33</a> | <a href="tl/4/4x4_93.txt" download="4x4_93.txt">4x4_93</a>
-See also<br> [MAE-gf nets](https://maetempels.github.io/MAE-gf/docs/nets#diagonal-nets) |
+See also<br> [MAE-gf nets](https://maetempels.github.io/MAE-gf/docs/nets#diagonal-net) |
  
 ### Kat or Paris family
 
