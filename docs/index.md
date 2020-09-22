@@ -71,7 +71,7 @@ Close cousin:
 See also:
  * [MAE-gf Paris](https://maetempels.github.io/MAE-gf/docs/paris)
  
- ### Rose family
+### Rose family
  
  |     |     |     |     |     |
  |:---|:---|:---|:---|:---|
