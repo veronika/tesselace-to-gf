@@ -1,0 +1,24 @@
+[3x3_134]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5-O,7-1,-04&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=0&
+[![](tl/3x3_134.png)][3x3_134]
+<a href="tl/3_5_7/3x3_134.txt" download="3x3_134.txt">3x3_134</a>
+[3x3_56]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=4-L,-5-,31C&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=0&
+[![](tl/3x3_56.png)][3x3_56]
+<a href="tl/3_5_7/3x3_56.txt" download="3x3_56.txt">3x3_56</a>
+[3x3_65]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=4-O,7E-,48-&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=0&
+[![](tl/3x3_65.png)][3x3_65]
+<a href="tl/3_5_7/3x3_65.txt" download="3x3_65.txt">3x3_65</a>
+[3x3_72]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=4-L,25-,17-&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=0&
+[![](tl/3x3_72.png)][3x3_72]
+<a href="tl/3_5_7/3x3_72.txt" download="3x3_72.txt">3x3_72</a>
+[3x3_93]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=4-O,-5F,56-&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=0&
+[![](tl/3x3_93.png)][3x3_93]
+<a href="tl/3_5_7/3x3_93.txt" download="3x3_93.txt">3x3_93</a>
+[4x3_220]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=B8-,--5,2B-,-7-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=0&
+[![](tl/4x3_220.png)][4x3_220]
+<a href="tl/3_5_7/4x3_220.txt" download="4x3_220.txt">4x3_220</a>
+[4x3_413]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=B-O,7--,F-B,-5-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=0&
+[![](tl/4x3_413.png)][4x3_413]
+<a href="tl/3_5_7/4x3_413.txt" download="4x3_413.txt">4x3_413</a>
+[4x4_157]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5831,-4-7,6868,-4-4&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&
+[![](tl/4x4_157.png)][4x4_157]
+<a href="tl/3_5_7/4x4_157.txt" download="4x4_157.txt">4x4_157</a>

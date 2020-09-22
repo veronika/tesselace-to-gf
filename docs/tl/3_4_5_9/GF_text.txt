@@ -1,0 +1,6 @@
+[4x3_288]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=4-M,O5-,835,010&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=0&
+[![](tl/4x3_288.png)][4x3_288]
+<a href="tl/3_4_5_9/4x3_288.txt" download="4x3_288.txt">4x3_288</a>
+[4x3_466]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=4-O,101,346,79-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=0&
+[![](tl/4x3_466.png)][4x3_466]
+<a href="tl/3_4_5_9/4x3_466.txt" download="4x3_466.txt">4x3_466</a>

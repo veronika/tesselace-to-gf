@@ -1,0 +1,6 @@
+[3x5_87]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5-O37,-244I,-4-48&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=5&shiftRowsSE=0&
+[![](tl/3x5_87.png)][3x5_87]
+<a href="tl/3_4_5_6_8/3x5_87.txt" download="3x5_87.txt">3x5_87</a>
+[3x5_93]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5-O89,-240F,-4-17&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=5&shiftRowsSE=0&
+[![](tl/3x5_93.png)][3x5_93]
+<a href="tl/3_4_5_6_8/3x5_93.txt" download="3x5_93.txt">3x5_93</a>

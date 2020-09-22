@@ -1,0 +1,3 @@
+[4x3_98]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=48-,686,-4-,B8-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=0&
+[![](tl/4x3_98.png)][4x3_98]
+<a href="tl/3_4_9/4x3_98.txt" download="4x3_98.txt">4x3_98</a>
