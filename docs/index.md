@@ -99,6 +99,14 @@ The non-traditional grounds have been grouped based on the size of the largest h
 * [Nonagon](8_9_10.md#9)
 * [Decagon](8_9_10.md#10) 
 
+
+Test
+
+{% include tesselaceSample.html pattern="566-,66-5,6-56,-566&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=0&" patches="patch=566-,66-5,6-56,-566;checker" %}
+
+[link]({% patches="patch=566-,66-5,6-56,-566;checker" %})
+
+
 [2x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&
 [2x1_3]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,2&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&
 [3x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,8,1&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=0&
