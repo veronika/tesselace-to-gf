@@ -55,6 +55,7 @@ See also<br> [MAE-gf nets](https://maetempels.github.io/MAE-gf/docs/nets) |
 [![](tl/3_6/2x4_49.png)][2x4_49] | [![](tl/3_6/2x4_86.png)][2x4_86] | [![](tl/3_6/2x4_93.png)][2x4_93] | [![](tl/3_6/2x4_96.png)][2x4_96] | [![](tl/3_6/R3M3_6x6_1.png)][R3M3_6x6_1]
 <a href="tl/3_6/2x4_49.txt" download="2x4_49.txt">2x4_49</a>  | <a href="tl/3_6/2x4_86.txt" download="2x4_86.txt">2x4_86</a> | <a href="tl/3_6/2x4_93.txt" download="2x4_93.txt">2x4_93</a> |  <a href="tl/3_6/2x4_96.txt" download="2x4_96.txt">2x4_96</a> | <a href="tl/3_6/R3M3_6x6_1.txt" download="R3M3_6x6_1.txt">R3M3_6x6_1</a> | 
  See also<br> [MAE-gf Paris](https://maetempels.github.io/MAE-gf/docs/paris) | 
+ 
 Close cousin:
 
 |     |     |     |     |     |
