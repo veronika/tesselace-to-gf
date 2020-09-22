@@ -90,7 +90,7 @@ Close cousins:
 Non-traditional grounds
 -----------------------
 
-The non-traditional grounds have been grouped based on the largest hole size in the ground.
+The non-traditional grounds have been grouped based on the size of the largest hole in the ground.
 
 * [Pentagon](5.md)
 * [Hexagon](6.md)
