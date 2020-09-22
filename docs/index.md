@@ -72,11 +72,12 @@ See also:
  * [MAE-gf Paris](https://maetempels.github.io/MAE-gf/docs/paris)
  
 ### Rose family
- 
- |     |     |     |     |     |
- |:---|:---|:---|:---|:---|
+
+|     |     |     |     |     |
+|:---|:---|:---|:---|:---|
 [![](tl/3_4_8/rose.png)][rose] |  [![](tl/3_4_8/4x4_25309.png)][4x4_25309] |  [![](tl/3_4_8/4x4_117397.png)][4x4_117397] |  [![](tl/3_4_8/4x4_117301.png)][4x4_117301]
  <a href="tl/3_4_8/rose.txt" download="rose.txt">rose</a> |  <a href="tl/3_4_8/4x4_25309.txt" download="4x4_25309.txt">4x4_25309</a> |  <a href="tl/3_4_8/4x4_117397.txt" download="4x4_117397.txt">4x4_117397</a> | <a href="tl/3_4_8/4x4_117301.txt" download="4x4_117301.txt">4x4_117301</a>
+
 Close cousins:
 
 |     |     |     |     |     |
