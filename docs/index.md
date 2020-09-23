@@ -33,7 +33,9 @@ Traditional Grounds
 |     |     |     |     |     |
 |:---|:---|:---|:---|:---|
 [![](tl/cloth/2x1_1.png)][2x1_1] | [![](tl/cloth/2x1_3.png)][2x1_3] | [![](tl/cloth/3x1_1.png)][3x1_1] | [![](tl/cloth/5x1_20.png)][5x1_20]
-<a href="tl/cloth/2x1_1.txt" download="2x1_1.txt">2x1_1</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=8,1;checker" }}">SVG</a> | <a href="tl/cloth/2x1_3.txt" download="2x1_3.txt">2x1_3</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=6,2;checker" }}">SVG</a> | <a href="tl/cloth/3x1_1.txt" download="3x1_1.txt">3x1_1</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=6,8,1;checker" }}">SVG</a> | <a href="tl/cloth/5x1_20.txt" download="5x1_20.txt">5x1_20</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=6,6,6,2,2;checker" }}">SVG</a>
+[SVG 2x1_1] <br> <a href="tl/cloth/2x1_1.txt" download="2x1_1.txt">2x1_1</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=8,1;checker" }}">SVG</a>  | <a href="tl/cloth/2x1_3.txt" download="2x1_3.txt">2x1_3</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=6,2;checker" }}">SVG</a> | <a href="tl/cloth/3x1_1.txt" download="3x1_1.txt">3x1_1</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=6,8,1;checker" }}">SVG</a> | <a href="tl/cloth/5x1_20.txt" download="5x1_20.txt">5x1_20</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=6,6,6,2,2;checker" }}">SVG</a>
+
+[SVG 2x1_1]: /GroundForge/sheet.html?{{ "patch=8,1;checker" }}
 
 ### Diamond family
 
