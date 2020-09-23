@@ -32,10 +32,18 @@ Traditional Grounds
 
 |     |     |     |     |     |
 |:---|:---|:---|:---|:---|
-[![](tl/cloth/2x1_1.png)][2x1_1] | [![](tl/cloth/2x1_3.png)][2x1_3] | [![](tl/cloth/3x1_1.png)][3x1_1] | [![](tl/cloth/5x1_20.png)][5x1_20]
-[SVG 2x1_1] <br> <a href="tl/cloth/2x1_1.txt" download="2x1_1.txt">2x1_1</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=8,1;checker" }}">SVG</a>  | <a href="tl/cloth/2x1_3.txt" download="2x1_3.txt">2x1_3</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=6,2;checker" }}">SVG</a> | <a href="tl/cloth/3x1_1.txt" download="3x1_1.txt">3x1_1</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=6,8,1;checker" }}">SVG</a> | <a href="tl/cloth/5x1_20.txt" download="5x1_20.txt">5x1_20</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=6,6,6,2,2;checker" }}">SVG</a>
+[![](tl/cloth/2x1_1.png)][GF 2x1_1] | [![](tl/cloth/2x1_3.png)][GF 2x1_3] | [![](tl/cloth/3x1_1.png)][GF 3x1_1] | [![](tl/cloth/5x1_20.png)][GF 5x1_20]
+<a href="tl/cloth/2x1_1.txt" download="2x1_1.txt">TXT 2x1_1</a>  <br> [SVG 2x1_1]  | <a href="tl/cloth/2x1_3.txt" download="2x1_3.txt">TXT 2x1_3</a> <br> [SVG 2x1_3] | <a href="tl/cloth/3x1_1.txt" download="3x1_1.txt">TXT 3x1_1</a> <br> [SVG 3x1_1] | <a href="tl/cloth/5x1_20.txt" download="5x1_20.txt">TXT 5x1_20</a> <br> [SVG 5x1_20]
+
+[GF 2x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&
+[GF 2x1_3]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,2&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&
+[GF 3x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,8,1&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=0&
+[GF 5x1_20]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,6,6,2,2&shiftColsSW=0&shiftRowsSW=5&shiftColsSE=1&shiftRowsSE=0&
 
 [SVG 2x1_1]: /GroundForge/sheet.html?{{ "patch=8,1;checker" }}
+[SVG 2x1_3]: /GroundForge/sheet.html?{{ "patch=6,2;checker" }} 
+[SVG 3x1_1]: /GroundForge/sheet.html?{{ "patch=6,8,1;checker" }}
+[SVG 5x1_20]: /GroundForge/sheet.html?{{ "patch=6,6,6,2,2;checker" }}
 
 ### Diamond family
 
@@ -102,10 +110,7 @@ The non-traditional grounds have been grouped based on the size of the largest h
 * [Nonagon](8_9_10.md#9)
 * [Decagon](8_9_10.md#10) 
 
-[2x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&
-[2x1_3]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,2&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&
-[3x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,8,1&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=0&
-[5x1_20]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,6,6,2,2&shiftColsSW=0&shiftRowsSW=5&shiftColsSE=1&shiftRowsSE=0&
+
 
 
 [1x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=0&
