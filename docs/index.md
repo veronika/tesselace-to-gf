@@ -60,7 +60,7 @@ See also:
  
  See also:
  * [MAE-gf Paris](https://maetempels.github.io/MAE-gf/docs/paris)
- * [Valenciennes](https://d-bl.github.io/gw-lace-to-gf/#val) section in the index on the sampler by Gertrude Whiting
+ * [Valenciennes](https://d-bl.github.io/gw-lace-to-gf/#val) examples in the sampler by Gertrude Whiting
   
  Close cousin:
  
