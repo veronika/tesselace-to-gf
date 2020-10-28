@@ -43,7 +43,7 @@ Traditional Grounds
  {% include tesselaceSample.html name="4x4_93" path="4" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5632,56-2,5-5-,-535&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=5632,56-2,5-5-,-535;checker" %}
  
 See also:
-* [MAE-gf nets](https://maetempels.github.io/MAE-gf/docs/nets#diagonal-net)
+* [MAE-gf nets](/MAE-gf/docs/nets#diagonal-net)
 
 ### Kat or Paris family
  
@@ -59,7 +59,7 @@ See also:
  {% include tesselaceSample.html name="R3M3_6x6_1" path="3_6" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5-O-E-,-E-5-O&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=6&shiftRowsSE=0&" SVG="patch=5-O-E-,-E-5-O;checker" %}
  
  See also:
- * [MAE-gf Paris](https://maetempels.github.io/MAE-gf/docs/paris)
+ * [MAE-gf Paris](/MAE-gf/docs/paris)
  * [Valenciennes](https://d-bl.github.io/gw-lace-to-gf/#val) examples in the sampler by G. Whiting
   
  Close cousin:
@@ -74,7 +74,7 @@ See also:
 {% include tesselaceSample.html name="4x4_117301" path="3_4_8" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=437-,4-73,7-43,734-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=437-,4-73,7-43,734-;checker" %}
 
 See also:
-* [MAE-gf Roses](https://maetempels.github.io/MAE-gf/docs/roses)
+* [MAE-gf Roses](/MAE-gf/docs/roses)
 * [Droste effect](/GroundForge/Droste-effect)
 
 Close cousins:
@@ -94,7 +94,7 @@ Close cousins:
  {% include tesselaceSample.html name="4x3_267" path="3_6" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5-O,25-,430,-17&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=0&" SVG="patch=5-O,25-,430,-17;checker" %}
  
 See also:
-* [MAE-gf bias](https://maetempels.github.io/MAE-gf/docs/bias)
+* [MAE-gf bias](/MAE-gf/docs/bias)
 
 Non-traditional grounds
 -----------------------
