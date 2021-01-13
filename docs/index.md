@@ -18,8 +18,8 @@ TesseLace Index
 Traditional Grounds
 -------------------
 
-See also families of patterns in [note 5](/gw-lace-to-gf/#N5)
-of the sampler by G. Whiting.
+See [note 5](/gw-lace-to-gf/#N5)
+of the sampler by G. Whiting for a few families of patterns.
 
 ### Cloth family
 {% include tesselaceSample.html name="2x1_1" path="cloth" GF="/GroundForge/tiles.html?tesselace=2x1_1&patchWidth=12&patchHeight=12&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&" SVG="patch=8,1;checker" %}
