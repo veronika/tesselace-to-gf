@@ -18,6 +18,9 @@ TesseLace Index
 Traditional Grounds
 -------------------
 
+See also families of patterns in [note 5](/gw-lace-to-gf/#N5)
+of the sampler by G. Whiting.
+
 ### Cloth family
 {% include tesselaceSample.html name="2x1_1" path="cloth" GF="/GroundForge/tiles.html?tesselace=2x1_1&patchWidth=12&patchHeight=12&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&" SVG="patch=8,1;checker" %}
 {% include tesselaceSample.html name="2x1_3" path="cloth" GF="/GroundForge/tiles.html?tesselace=2x1_3&patchWidth=12&patchHeight=12&tile=6,2&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&" SVG="patch=6,2;checker" %}
@@ -53,6 +56,7 @@ See also:
  {% include tesselaceSample.html name="2x4_28" path="3_6" GF="/GroundForge/tiles.html?tesselace=2x4_28&patchWidth=12&patchHeight=12&tile=4-L8,25-1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=4-L8,25-1;checker" %}
  {% include tesselaceSample.html name="2x4_29" path="3_6" GF="/GroundForge/tiles.html?tesselace=2x4_29&patchWidth=12&patchHeight=12&tile=4-M9,25E-&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=4-M9,25E-;checker" %}
  {% include tesselaceSample.html name="2x4_49" path="3_6" GF="/GroundForge/tiles.html?tesselace=2x4_49&patchWidth=12&patchHeight=12&tile=68-7,-124&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=68-7,-124;checker" %}
+ {% include tesselaceSample.html name="2x4_85" path="3_6" GF="/GroundForge/tiles.html?tesselace=2x4_85&patchWidth=12&patchHeight=12&tile=4-O0,9E-7&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=4-O0,9E-7;checker" %}
  {% include tesselaceSample.html name="2x4_86" path="3_6" GF="/GroundForge/tiles.html?tesselace=2x4_86&patchWidth=12&patchHeight=12&tile=4-O0,O04-&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=4-O0,O04-;checker" %}
  {% include tesselaceSample.html name="2x4_93" path="3_6" GF="/GroundForge/tiles.html?tesselace=2x4_93&patchWidth=12&patchHeight=12&tile=58-1,-158&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=58-1,-158;checker" %}
  {% include tesselaceSample.html name="2x4_96" path="3_6" GF="/GroundForge/tiles.html?tesselace=2x4_96&patchWidth=12&patchHeight=12&tile=5831,-4-7&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=5831,-4-7;checker" %}
