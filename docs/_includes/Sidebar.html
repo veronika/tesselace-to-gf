@@ -1,11 +1,35 @@
 <ul>
-    <li>Contact
+    <li><h2>Contact</h2>
         <ul>
-            <li><a href="https://groups.io/g/GroundForge" target="_blank">user group</a></li>
-            <li><a href="https://groundforge.wordpress.com">support</a></li>
+            <li><a href="https://groups.io/g/GroundForge" target="_blank">User group</a></li>
+            <li><a href="https://groundforge.wordpress.com" target="_blank">Support</a></li>
+            <li>
+                {% if page.name == 'about-us.md' %}
+                About us
+                {% else %}
+                <a href="/GroundForge-help/about-us">About us</a>
+                {% endif %}
+            </li>
         </ul>
     </li>
-
+    <li><h2>Catalogues</h2>
+        <ul>
+            <li>TesseLace index</li>
+            <li><a href="/gw-lace-to-gf">Gertrude Whiting sampler</a></li>
+            <li><a href="/MAE-gf/">Many Attractive Examples</a></li>
+            <li><a href="/MAE-gf/docs/literature">Literature</a></li>
+        </ul>
+    </li>
+    <li><h2>GroundForge</h2>
+        <ul>
+            <li><a href="/GroundForge/tiles">Diagram editor</a></li>
+            <li><a href="/GroundForge/">User guide</a></li>
+            <li><a href="/GroundForge/nets">Net variations</a></li>
+        </ul><hr/>
+    </li>
+</ul>
+<h2>Tesselace index</h2>
+<ul>
     <li>Traditional Grounds
         <ul>
             <li><a href="index#cloth-family">cloth</a></li>
@@ -31,12 +55,18 @@
             <li><a href="fouche_3x4">Burden of Excess 3x4</a></li>
         </ul>
     </li>
+    <li><hr>
+        <h3>Contribute</h3>
+        <ul>
+            <li>
+            <li><a href="/GroundForge-help/Reuse">Share and reuse</a></li>
+            <li>
+                <a href="https://help.github.com/articles/editing-files-in-another-user-s-repository/" target="_blank">Propose changes</a> to
+                <a href="https://github.com/d-bl/tesselace-to-gf/tree/master/docs" target="_blank">help </a> pages
+            </li>
+        </ul>
+    </li>
     <li>
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="/tesselace-to-gf/assets/images/CC-BY-80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
     </li>
 </ul>
-<p>
-    Powered by<br>
-    <a href="https://tesselace.com" title="Algorithmically designed lace tessellations">TesseLace</a> -
-    <a href="http://browserstack.com/">browserstack</a>
-</p>
