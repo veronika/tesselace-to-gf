@@ -22,12 +22,13 @@ See [note 5](/gw-lace-to-gf/#N5)
 of the sampler by G. Whiting for a few more families of patterns.
 
 ### Cloth family
+
+[SVG](/GroundForge/sheet.html?patch=8,1;checker&patch=6,2;checker&patch=6,8,1;checker&patch=6,6,6,2,2;checker)
+
 {% include tesselaceSample.html name="2x1_1" path="cloth" GF="/GroundForge/tiles.html?tesselace=2x1_1&patchWidth=12&patchHeight=12&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&" %}
 {% include tesselaceSample.html name="2x1_3" path="cloth" GF="/GroundForge/tiles.html?tesselace=2x1_3&patchWidth=12&patchHeight=12&tile=6,2&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&" %}
 {% include tesselaceSample.html name="3x1_1" path="cloth" GF="/GroundForge/tiles.html?tesselace=3x1_1&patchWidth=12&patchHeight=12&tile=6,8,1&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=0&" %}
 {% include tesselaceSample.html name="5x1_20" path="cloth" GF="/GroundForge/tiles.html?tesselace=5x1_20&patchWidth=12&patchHeight=12&tile=6,6,6,2,2&shiftColsSW=0&shiftRowsSW=5&shiftColsSE=1&shiftRowsSE=0&" %}
-
-[SVG](/GroundForge/sheet.html?patch=8,1;checker&patch=6,2;checker&patch=6,8,1;checker&patch=6,6,6,2,2;checker)
 
 ### Diamond family
 
