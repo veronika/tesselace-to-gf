@@ -31,6 +31,8 @@ of the sampler by G. Whiting for a few more families of patterns.
 
 ### Diamond family
 
+[SVG](/GroundForge/sheet.html?patch=5-,-5;checker& patch=6;checker& patch=53;checker& patch=563;checker& patch=5632;checker& patch=56663;checker& patch=56353;checker& patch=56632;checker& patch=53,5-,-5;checker& patch=56-,6-5,-56;checker& patch=4-L,-L4,L4-;checker& patch=53,5-,35,-5;checker& patch=53,53,5-,-5;checker& patch=566-,66-5,6-56,-566;checker& patch=5632,56-2,5-5-,-535;checker)
+
  {% include tesselaceSample.html name="2x2_3" path="4" GF="/GroundForge/tiles.html?tesselace=2x2_3&patchWidth=12&patchHeight=12&tile=5-,-5&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=0&" %}
  {% include tesselaceSample.html name="1x1_1" path="4" GF="/GroundForge/tiles.html?tesselace=1x1_1&patchWidth=12&patchHeight=12&tile=6&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=0&" %}
  {% include tesselaceSample.html name="1x2_1" path="4" GF="/GroundForge/tiles.html?tesselace=1x2_1&patchWidth=12&patchHeight=12&tile=53&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=2&shiftRowsSE=0&" %}
@@ -47,13 +49,13 @@ of the sampler by G. Whiting for a few more families of patterns.
  {% include tesselaceSample.html name="4x4_33" path="4" GF="/GroundForge/tiles.html?tesselace=4x4_33&patchWidth=12&patchHeight=12&tile=566-,66-5,6-56,-566&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&" %}
  {% include tesselaceSample.html name="4x4_93" path="4" GF="/GroundForge/tiles.html?tesselace=4x4_93&patchWidth=12&patchHeight=12&tile=5632,56-2,5-5-,-535&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&" %}
 
-[SVG](/GroundForge/sheet.html?patch=5-,-5;checker& patch=6;checker& patch=53;checker& patch=563;checker& patch=5632;checker& patch=56663;checker& patch=56353;checker& patch=56632;checker& patch=53,5-,-5;checker& patch=56-,6-5,-56;checker& patch=4-L,-L4,L4-;checker& patch=53,5-,35,-5;checker& patch=53,53,5-,-5;checker& patch=566-,66-5,6-56,-566;checker& patch=5632,56-2,5-5-,-535;checker)
-
 See also:
 * [MAE-gf nets](/MAE-gf/docs/nets#diagonal-net)
 
 ### Kat or Paris family
- 
+
+[SVG](/GroundForge/sheet.html?patch=B-C-,---5,C-B-,-5--;checker& patch=5-M9,-50F;checker& patch=4-J4,35-7;checker& patch=4-L8,25-1;checker& patch=4-M9,25E-;checker& patch=68-7,-124;checker& patch=4-O0,9E-7;checker& patch=4-O0,O04-;checker& patch=58-1,-158;checker& patch=5831,-4-7;checker& patch=5-O-E-,-E-5-O;checker)
+
  {% include tesselaceSample.html name="kat" path="3_6" GF="/GroundForge/tiles.html?tesselace=kat&patchWidth=12&patchHeight=12&tile=B-C-,---5,C-B-,-5--&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&" %}
  {% include tesselaceSample.html name="2x4_8" path="3_6" GF="/GroundForge/tiles.html?tesselace=2x4_8&patchWidth=12&patchHeight=12&tile=5-M9,-50F&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=0&" %}
  {% include tesselaceSample.html name="2x4_18" path="3_6" GF="/GroundForge/tiles.html?tesselace=2x4_18&patchWidth=12&patchHeight=12&tile=4-J4,35-7&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=0&" %}
@@ -66,8 +68,6 @@ See also:
  {% include tesselaceSample.html name="2x4_96" path="3_6" GF="/GroundForge/tiles.html?tesselace=2x4_96&patchWidth=12&patchHeight=12&tile=5831,-4-7&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=0&" %}
  {% include tesselaceSample.html name="R3M3_6x6_1" path="3_6" GF="/GroundForge/tiles.html?tesselace=R3M3_6x6_1&patchWidth=12&patchHeight=12&tile=5-O-E-,-E-5-O&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=6&shiftRowsSE=0&" %}
 
-[SVG](/GroundForge/sheet.html?patch=B-C-,---5,C-B-,-5--;checker& patch=5-M9,-50F;checker& patch=4-J4,35-7;checker& patch=4-L8,25-1;checker& patch=4-M9,25E-;checker& patch=68-7,-124;checker& patch=4-O0,9E-7;checker& patch=4-O0,O04-;checker& patch=58-1,-158;checker& patch=5831,-4-7;checker& patch=5-O-E-,-E-5-O;checker)
- 
  See also:
  * [MAE-gf Paris](/MAE-gf/docs/paris)
  * [Valenciennes](https://d-bl.github.io/gw-lace-to-gf/#val) examples in the sampler by G. Whiting
@@ -78,12 +78,12 @@ See also:
  
 ### Rose family
 
+[SVG](/GroundForge/sheet.html?patch=5831,-4-7,3158,-7-4;checker&patch=4830,--77,3048,77--;checker&patch=437-,4-7-,8-15,8315;checker&patch=437-,4-73,7-43,734-;checker)
+
 {% include tesselaceSample.html name="rose" path="3_4_8" GF="/GroundForge/tiles.html?tesselace=rose&patchWidth=12&patchHeight=12&tile=5831,-4-7,3158,-7-4&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&" %}
 {% include tesselaceSample.html name="4x4_25309" path="3_4_8" GF="/GroundForge/tiles.html?tesselace=4x4_25309&patchWidth=12&patchHeight=12&tile=4830,--77,3048,77--&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&" %}
 {% include tesselaceSample.html name="4x4_117397" path="3_4_8" GF="/GroundForge/tiles.html?tesselace=4x4_117397&patchWidth=12&patchHeight=12&tile=437-,4-7-,8-15,8315&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&" %}
 {% include tesselaceSample.html name="4x4_117301" path="3_4_8" GF="/GroundForge/tiles.html?tesselace=4x4_117301&patchWidth=12&patchHeight=12&tile=437-,4-73,7-43,734-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&" %}
-
-[SVG](/GroundForge/sheet.html?patch=5831,-4-7,3158,-7-4;checker&patch=4830,--77,3048,77--;checker&patch=437-,4-7-,8-15,8315;checker&patch=437-,4-73,7-43,734-;checker)
 
 See also:
 * [MAE-gf Roses](/MAE-gf/docs/roses)
@@ -101,12 +101,12 @@ Close cousins:
 
 ### Bias family
 
+[SVG](/GroundForge/sheet.html?patch=483,348,834;checker&patch=68,4-,86,-4;checker&patch=5-O,25-,430,-17;checker)
+
  {% include tesselaceSample.html name="3x3_248" path="3_6" GF="/GroundForge/tiles.html?tesselace=3x3_248&patchWidth=12&patchHeight=12&tile=483,348,834&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=0&" %}
  {% include tesselaceSample.html name="4x2_97" path="3_6" GF="/GroundForge/tiles.html?tesselace=4x2_97&patchWidth=12&patchHeight=12&tile=68,4-,86,-4&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=0&" %}
  {% include tesselaceSample.html name="4x3_267" path="3_6" GF="/GroundForge/tiles.html?tesselace=4x3_267&patchWidth=12&patchHeight=12&tile=5-O,25-,430,-17&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=0&" %}
 
-[SVG](/GroundForge/sheet.html?patch=483,348,834;checker&patch=68,4-,86,-4;checker&patch=5-O,25-,430,-17;checker)
- 
 See also:
 * [MAE-gf bias](/MAE-gf/docs/bias)
 
