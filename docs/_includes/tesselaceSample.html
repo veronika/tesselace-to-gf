@@ -3,8 +3,10 @@
         <img src="/{{ site.github.repository_name }}/tl/{{ include.path }}/{{ include.name }}.png" alt="{{ include.name }}" title="{{ include.name }}">
         <figcaption>
             <a href="/{{ site.github.repository_name }}/tl/{{ include.path }}/{{ include.name }}.txt" download="{{ include.name }}.txt">{{ include.name }}.txt</a>
+            {% if include.SVG %}
             -
             <a href="/GroundForge/sheet.html?{{ include.SVG }}">svg</a>
+            {% endif %}
         </figcaption>
     </a>
 </figure>
